@@ -5,23 +5,6 @@ Me chamo Anna Carolina, tenho 18 anos e sou estudante de TI. Atualmente estou cu
 
 😉 Abaixo você encontrará mais informações sobre mim
 
-</a> 
-    <a href="https://github.com/AnnacBromochenkel?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AnnacBromochenkel?color=1c68e5&labelColor=175ac8&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/AnnacBromochenkel">
-        <img 
-            alt="Estrelas" 
-            title="Estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AnnacBromochenkel?color=be18ec&style=for-the-badge&labelColor=af14d9&logo=star&label=estrelas"
-        />
-    </a>
-</p
-
 ---
 ---
 

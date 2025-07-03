@@ -6,7 +6,6 @@ Me chamo Anna Carolina, tenho 18 anos e sou estudante de TI. Atualmente estou cu
 😉 Abaixo você encontrará mais informações sobre mim
 
 ---
----
 
 ### 🤖 Linguagens e Ferramentas
 

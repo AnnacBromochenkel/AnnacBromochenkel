@@ -1,7 +1,7 @@
 # 💻 Olá, eu sou a Anna! 
-**`Estudante de ADS`** **`Backend`** **`Frontend`**
+**`Estudante de ADS`** **`Frontend`**
 
-Me chamo Anna Carolina Stinguel Bromochenkel, tenho 18 anos e sou estudante de TI. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade UCL, e estou em busca de novas oportunidades! Sou apaixonada por tencologia desde pequena e pretendo fazer dela minha profissão.
+Me chamo Anna Carolina, tenho 18 anos e sou estudante de TI. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade UCL, e estou em busca de novas oportunidades! Sou apaixonada por tencologia desde pequena e pretendo fazer dela minha profissão.
 
 😉 Abaixo você encontrará mais informações sobre mim
 
